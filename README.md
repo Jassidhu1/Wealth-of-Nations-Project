@@ -12,6 +12,8 @@ I created charts to highlight important information about the data.
 
 ### Sorting Data
 
+## Tableau
+
 ### Creating Visualisations 
 
 ### Creating Dashboards
